@@ -9,6 +9,29 @@ Pre- Requisit
 - OpenAI API key and its use.
 
 
+Packages and Libraries
+
+●	langchain_openai 
+●	langchain_core
+●	python-dotenv
+●	langchain_community
+●	langserve
+●	bs4
+●	pypdf
+●	chromadb
+●	faiss-cpu
+●	beautifulsoup4
+●	langchain-groq
+●	wikipedia
+●	langchainhub
+●	sentence_transformers
+●	PyPDF2
+●	Langchain-objectbox
+
+
+
+
+
 
 Areas of demand (Major Use Cases):
 
