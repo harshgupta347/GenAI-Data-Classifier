@@ -11,22 +11,22 @@ Pre- Requisit
 
 Packages and Libraries
 
-●	langchain_openai 
-●	langchain_core
-●	python-dotenv
-●	langchain_community
-●	langserve
-●	bs4
-●	pypdf
-●	chromadb
-●	faiss-cpu
-●	beautifulsoup4
-●	langchain-groq
-●	wikipedia
-●	langchainhub
-●	sentence_transformers
-●	PyPDF2
-●	Langchain-objectbox
+- langchain_openai 
+- langchain_core
+- python-dotenv
+- langchain_community
+- langserve
+- bs4
+- pypdf
+- chromadb
+- faiss-cpu
+- beautifulsoup4
+- langchain-groq
+- wikipedia
+- langchainhub
+- sentence_transformers
+- PyPDF2
+- Langchain-objectbox
 
 
 
