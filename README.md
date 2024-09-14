@@ -1,7 +1,7 @@
 # LangChain-Repo
 
 
-##Pre- Requisit
+#Pre- Requisit
 - Knowledge of Python programming
 - Understanding of Langchain
 - Idea of RAG Applications
