@@ -9,6 +9,7 @@ Pre- Requisit
 - OpenAI API key and its use.
 
 
+
 Areas of demand (Major Use Cases):
 
 1.	Legal and ComplianceAutomate contract analysis and ensure regulatory compliance.
