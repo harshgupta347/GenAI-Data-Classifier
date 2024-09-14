@@ -1,7 +1,7 @@
 # LangChain-Repo
 
 
-Pre- Requisit
+**Pre- Requisit**
 - Knowledge of Python programming
 - Understanding of Langchain
 - Idea of RAG Applications
@@ -9,8 +9,8 @@ Pre- Requisit
 - OpenAI API key and its use.
 
 
-Packages and Libraries
-
+**Packages and Libraries
+**
 - langchain_openai 
 - langchain_core
 - python-dotenv
@@ -33,8 +33,8 @@ Packages and Libraries
 
 
 
-Areas of demand (Major Use Cases):
-
+**Areas of demand (Major Use Cases):
+**
 1.	Legal and ComplianceAutomate contract analysis and ensure regulatory compliance.
 
 2.	Finance and Accounting: Streamline invoice processing and financial reporting.
