@@ -29,6 +29,15 @@
 - Langchain-objectbox
 
 
+## Instruction to use
+- There are two different files(Select the file based on your purpose and use)
+- You need to make sure you have an Open AI Api key.
+- To check your Keys validity, there is already a code added. --> Once you have received a positive message you can feel free to proceed wwith the program.
+- The files have clear instructions after each code block, make sure to read them to get better clarity this can help you to take personal decisions while updating the code for a specific purpose.
+- Feel free to reach out to me in case you have any doubts or suggestiion for that matter.
+
+
+
 ## Areas of demand (Major Use Cases):
 
 1.	Legal and ComplianceAutomate contract analysis and ensure regulatory compliance.
