@@ -1,4 +1,4 @@
-# LangChain-Repo
+# GenAI Data Classifier
 
 
 ## Pre- Requisit
